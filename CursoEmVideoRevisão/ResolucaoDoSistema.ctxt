@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ResolucaoDoSistema
+comment1.params=
+comment1.target=ResolucaoDoSistema()
+comment2.params=
+comment2.target=double\ getEixoX()
+comment3.params=
+comment3.target=double\ getEixoY()
+comment4.params=
+comment4.target=void\ exibeResolucao()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SystemLang
+comment1.params=
+comment1.target=SystemLang()
+comment2.params=
+comment2.target=java.util.Locale\ getLang()
+comment3.params=
+comment3.target=void\ showLang()
+numComments=4

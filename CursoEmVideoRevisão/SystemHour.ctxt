@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SystemHour
+comment1.params=
+comment1.target=SystemHour()
+comment2.params=
+comment2.target=java.util.Date\ getHour()
+comment3.params=
+comment3.target=void\ showHour()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IdiomaDoSistema
+comment1.params=
+comment1.target=IdiomaDoSistema()
+comment2.params=
+comment2.target=java.util.Locale\ getIdioma()
+comment3.params=
+comment3.target=void\ exibeIdioma()
+numComments=4
